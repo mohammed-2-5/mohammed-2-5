@@ -8,9 +8,8 @@
 
 <!-- MATRIX BACKGROUND EFFECT -->
 <p align="center">
-  <img src="https://i.imgur.com/qVCRlY6.gif" width="100%" style="border-radius:10px;" />
-</p>
-
+  <img src="https://i.imgur.com/Yi0Yx0K.gif" width="100%" style="border-radius:10px;" />
+</p
 <p align="center">
   <a href="https://mohammed-2-5.github.io" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-1d4ed8?style=for-the-badge&logo=githubpages&logoColor=white" />
