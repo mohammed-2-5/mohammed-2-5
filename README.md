@@ -6,10 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=1500&color=00E5FF&center=true&vCenter=true&width=780&lines=Flutter+Developer;Mobile+App+Engineer;Clean+Architecture+Expert;Building+Modern+%26+Real+World+Apps;Open+to+Remote+%26+Freelance+Opportunities" />
 </p>
 
-<!-- MATRIX BACKGROUND EFFECT -->
-<p align="center">
-  <img src="https://i.imgur.com/Yi0Yx0K.gif" width="100%" style="border-radius:10px;" />
-</p
+
 <p align="center">
   <a href="https://mohammed-2-5.github.io" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-1d4ed8?style=for-the-badge&logo=githubpages&logoColor=white" />
