@@ -8,7 +8,7 @@
 
 <!-- MATRIX BACKGROUND EFFECT -->
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" height="180" style="border-radius:10px;" />
+  <img src="https://i.imgur.com/qVCRlY6.gif" width="100%" style="border-radius:10px;" />
 </p>
 
 <p align="center">
